@@ -1,1 +1,2 @@
 # STA-160-Final
+Using the subject of MLB pitcher Corbin Burnes, this project aims to investigate his evolution as a pitcher over a five-year span of 2019-2023. The advanced metrics behind his pitches are examined, namely spin rate, effective batting average, wOBA, and effective speed. From these advanced metrics, we create a "good" or "bad" pitch function that rates each of his pitches based on the positive or negative change in run expectancy. From here, we can see how Burnes has been successful (or not) for each pitch through the years and make inferences as to why. 
